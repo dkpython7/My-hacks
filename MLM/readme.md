@@ -1,8 +1,3 @@
-Here’s your full explanation rewritten in **Markdown (.md)** format — clean, structured, and with added **resource links** to official model pages and documentation for deeper learning 👇
-
----
-
-````markdown
 # 🧠 Masked Language Model (MLM) Explained
 
 Ah! Now it makes sense — **MLM stands for Masked Language Model**, a fundamental concept in NLP (Natural Language Processing), especially used in models like **BERT**. Let’s go deep into it.
@@ -128,17 +123,3 @@ Here are some great resources to explore further:
 * 🧩 [Transformers Library Documentation](https://huggingface.co/docs/transformers/index)
 * 🔬 [Google AI Blog: BERT Explained](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html)
 
----
-
-### 🎥 Want to Learn in a Fun Way?
-
-Check out my short **Reel Script** on MLM for a 40-second breakdown —
-and if you want the **detailed explanation with source code and model links**,
-💬 **comment “MLM”**, and I’ll send it directly to your **DM**! 🚀
-
-```
-
----
-
-Would you like me to also format this `.md` into a **Google Docs** version (styled for sharing/teaching with students, like your other Hinglish resources)?
-```
